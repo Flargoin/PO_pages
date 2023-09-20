@@ -1045,7 +1045,7 @@ a {
   justify-content: center;
   width: 100%;
   height: 100%;
-  background-image: url("../../img/svg/arrow-right.svg");
+  background-image: url("../img/svg/arrow-right.svg");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -1769,7 +1769,7 @@ a {
     background-color: var(--light-color);
   }
   .example__slider-prev::after, .example__slider-next::after {
-    background-image: url("../../img/svg/arrow-dark.svg");
+    background-image: url("../img/svg/arrow-dark.svg");
   }
   .footer__menu {
     -ms-flex-wrap: wrap;
