@@ -1127,7 +1127,7 @@ a {
   z-index: var(--ui-index-3);
 }
 .record__img img {
-  height: 417px;
+  height: 412px;
 }
 .record__content {
   position: relative;
@@ -1145,7 +1145,7 @@ a {
   display: block;
   border-radius: 0 20px 20px 0;
   width: 100%;
-  height: calc(100% + 5px);
+  height: 100%;
   z-index: -1;
   background-color: rgba(0, 23, 31, 0.8);
 }
