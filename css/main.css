@@ -408,7 +408,7 @@ a {
   height: 7px;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  background-image: url("../../img/svg/check-white.svg");
+  background-image: url("../img/svg/check-white.svg");
   background-position: center;
   background-size: 8px 8px;
   background-repeat: no-repeat;
@@ -1841,7 +1841,7 @@ a {
     border-color: var(--text-color);
   }
   .hero .form .custom-checkbox__content::after {
-    background-image: url("../../img/svg/check-black.svg");
+    background-image: url("../img/svg/check-black.svg");
   }
   .breadcrumbs {
     display: none;
